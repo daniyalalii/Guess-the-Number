@@ -42,3 +42,12 @@ A simple and interactive **Guess the Number** game built with **HTML**, **CSS**,
 - ├── index.html
 - ├── style.css
 - └── script.js
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/daniyalalii/Guess-the-Number.git
